@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 ### TO DO
 ```python
 import os
-impprt torch
+import torch
 ```
 
