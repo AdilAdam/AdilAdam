@@ -9,5 +9,8 @@ AdilAdam/AdilAdam is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ### TO DO
-‘’‘ python
+```python
+import os
+impprt torch
+```
 
