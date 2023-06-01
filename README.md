@@ -8,9 +8,11 @@
 AdilAdam/AdilAdam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### TO DO
+# TO DO
 ```bash
 Voice Activity Detection
 ```
-## who is AdilAdam
-[![Youtube](https://img.shields.io/badge/youtube-black?logo=Youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com)
+## Who is AdilAdam
+```sh
+
+```
