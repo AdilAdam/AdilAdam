@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 Voice Activity Detection
 ```
 ## Who is AdilAdam
-![Awesome](https://awesome.re/badge.svg)
 A master of engineering. 
 research intrests includes:
   - machine learning 
