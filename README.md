@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 Voice Activity Detection
 ```
 ## who is AdilAdam
-[![Youtube](https://img.shields.io/badge/youtube-black?logo=Youtube&logoColor=white&link=https://www.youtube.com)]
+![Youtube](https://img.shields.io/badge/youtube-black?logo=Youtube&logoColor=white&link=https://www.youtube.com)
