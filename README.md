@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 Voice Activity Detection
 ```
 ## Who is AdilAdam
-A master of engineering. 
+A master of engineering `\n`
 research intrests includes:
   - machine learning 
   - automatic speech recognition
