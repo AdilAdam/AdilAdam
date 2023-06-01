@@ -14,7 +14,6 @@ Voice Activity Detection
 ```
 ## Who is AdilAdam
 A master of engineering. 
-
 research intrests includes:
   - machine learning 
   - automatic speech recognition
