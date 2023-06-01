@@ -13,10 +13,9 @@ You can click the Preview link to take a look at your changes.
 Voice Activity Detection
 ```
 ## Who is AdilAdam
-```sh
+
 $ A master of engineering. 
 % research intrests includes:
   - machine learning 
   - automatic speech recognition
-  - digital signal processing 
-```
+  - digital signal processing
