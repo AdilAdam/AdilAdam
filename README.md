@@ -18,3 +18,8 @@ research intrests includes:
   - machine learning 
   - automatic speech recognition
   - digital signal processing
+
+
+### some websides usefull for future studying
+- Lightinig for model training : https://lightning.ai/pages/open-source/
+- pytorch and Matplotlib: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial4/Optimization_and_Initialization.html
