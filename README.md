@@ -20,6 +20,6 @@ research intrests includes:
   - digital signal processing
 
 
-### some websides usefull for future studying
+### some websides useful for future studying or research
 - Lightinig for model training : https://lightning.ai/pages/open-source/
 - pytorch and Matplotlib: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial4/Optimization_and_Initialization.html
