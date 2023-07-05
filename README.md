@@ -23,4 +23,4 @@ research intrests includes:
 ### some websides useful for future studying or research
 - Lightinig for model training : https://lightning.ai/pages/open-source/
 - pytorch and Matplotlib: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial4/Optimization_and_Initialization.html
-- matplotlib: for drawing the experimental pictures
+- matplotlib: for drawing the experimental pictures : https://matplotlib.org/stable/index.html
