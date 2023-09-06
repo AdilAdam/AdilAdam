@@ -11,6 +11,12 @@ You can click the Preview link to take a look at your changes.
 ## TO DO
 ```bash
 Voice Activity Detection
+
+signal processing
+
+speech recognition
+
+voice conversion
 ```
 ## Who is AdilAdam
 A master of engineering
